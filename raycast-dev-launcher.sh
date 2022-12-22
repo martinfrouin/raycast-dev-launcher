@@ -7,12 +7,12 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Launch Dev Project
+# @raycast.title Dev Launcher
 # @raycast.mode compact
 
 # Optional parameters:
 # @raycast.icon 🤖
-# @raycast.argument1 { "type": "text", "placeholder": "Placeholder" }
+# @raycast.argument1 { "type": "text", "placeholder": "Project" }
 
 # Documentation:
 # @raycast.author Martin Frouin
